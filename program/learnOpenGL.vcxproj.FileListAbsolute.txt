@@ -1,0 +1,2 @@
+C:\Users\Lenovo\source\repos\learnOpenGL\Release\learnOpenGL.exe
+C:\Users\Lenovo\source\repos\learnOpenGL\Release\glfw3.dll
